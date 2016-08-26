@@ -6,4 +6,6 @@
 
 ***Favorite Food:*** berries
 
+***Favorite Color:*** Green
+
 ***Hobby:*** Dance
