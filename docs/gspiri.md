@@ -9,3 +9,5 @@
 ***Favorite Color:*** Green
 
 ***Hobby:*** Dance
+
+***Favorite Animal:*** Frog
